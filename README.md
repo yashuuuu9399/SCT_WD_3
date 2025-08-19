@@ -1,10 +1,10 @@
 # 📝 IT Quiz Game  
 
-An **interactive quiz application** built as **Task 3** of my Web Development Internship at **SkillCraft Technology**.  
-This project is designed to **test IT knowledge** with fun and engaging questions.  
+An interactive quiz application built as Task 3 of my Web Development Internship at SkillCraft Technology.  
+This project is designed to test IT knowledge with fun and engaging questions.  
 
 🌐 Live Preview  
-🔗 Click Here to Play - 
+🔗 Click Here to Play - [https://yashuuuu9399.github.io/SCT_WD_3/]
 
  ✨ Features  
 - 🎯 10 IT-related questions
