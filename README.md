@@ -4,7 +4,7 @@ An interactive quiz application built as Task 3 of my Web Development Internship
 This project is designed to test IT knowledge with fun and engaging questions.  
 
 🌐 Live Preview  
-🔗 Click Here to Play - [https://yashuuuu9399.github.io/SCT_WD_3/]
+🔗 Click Here to Play - https://yashuuuu9399.github.io/SCT_WD_3/
 
  ✨ Features  
 - 🎯 10 IT-related questions
@@ -25,4 +25,4 @@ This project is designed to test IT knowledge with fun and engaging questions.
 - `style.css` → Styling & theme  
 - `script.js` → Quiz logic  
 
-
+*A big thank you to SkillCraft Technology for this amazing learning opportunity.- Task- 3*
