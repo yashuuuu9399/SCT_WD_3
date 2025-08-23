@@ -1,4 +1,4 @@
-# 📝 IT Quiz Game  
+📝 IT Quiz Game  
 
 An interactive quiz application built as Task 3 of my Web Development Internship at SkillCraft Technology.  
 This project is designed to test IT knowledge with fun and engaging questions.  
